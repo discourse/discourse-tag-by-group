@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    tag_by_group_enabled: "Enable auto-tagging topics based on the user's group memberships."
+    tag_by_group_tags_for_groups: "Accepts a list of group-name/tag-name comma separated pairs. For example 'customers, high-priority'. To configure tags so they can only be seen by staff, add them to a Tag Group that is set to be only visible to staff."
