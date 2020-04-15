@@ -1,0 +1,7 @@
+plugins:
+  tag_by_group_enabled:
+    default: true
+    client: true
+  tag_by_group_tags_for_groups:
+    type: list
+    default: ""
