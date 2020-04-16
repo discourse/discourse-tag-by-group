@@ -16,7 +16,7 @@ after_initialize do
         relation = r.split(',')
         if user_group_names.include? relation[0]
           tag_name = relation[1]&.strip
-          tag = Tag.find_by_name( tag_name) || Tag.create(name: tag_name)
+          tag = Tag.find_by_name(tag_name) || Tag.create(name: tag_name)
           if tag && tag.name
             guardian = Guardian.new(Discourse.system_user)
             DiscourseTagging.tag_topic_by_names(topic, guardian, [tag.name], append: true)
