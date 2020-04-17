@@ -2,7 +2,8 @@
 
 # name: discourse-tag-by-group
 # version 0.1
-# author: scossar
+# authors: scossar
+# url: https://github.com/discourse/discourse-tag-by-group
 
 enabled_site_setting :tag_by_group_enabled
 
