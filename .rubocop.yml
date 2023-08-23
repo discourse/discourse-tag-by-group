@@ -1,3 +1,6 @@
 inherit_gem:
   rubocop-discourse: stree-compat.yml
 
+RSpec/DescribeClass:
+  Exclude:
+    - spec/tag_by_group_spec.rb
