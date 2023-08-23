@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/ruby-syntax-tree/syntax_tree.git
+  revision: 8eacaca33b63b14ec472b36c2cdaaebd295cb47c
+  branch: main
+  specs:
+    syntax_tree (6.1.1)
+      prettier_print (>= 1.2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -40,8 +48,6 @@ GEM
       rubocop-capybara (~> 2.17)
       rubocop-factory_bot (~> 2.22)
     ruby-progressbar (1.13.0)
-    syntax_tree (6.1.1)
-      prettier_print (>= 1.2.0)
     unicode-display_width (2.4.2)
 
 PLATFORMS
@@ -49,7 +55,7 @@ PLATFORMS
 
 DEPENDENCIES
   rubocop-discourse
-  syntax_tree
+  syntax_tree!
 
 BUNDLED WITH
    2.4.17
