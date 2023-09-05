@@ -1,0 +1,10 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+he:
+  site_settings:
+    tag_by_group_enabled: "הפעלת תיוג אוטומטי לנושאים לפי חברות המשתמש בקבוצות."
+    tag_by_group_tags_for_groups: "מקבל רשימה של זוגות קבוצה-שם/תגית-שם. למשל ‚לקוחות, בעדיפות גבוהה’. כדי להגדיר תגיות כך שרק הסגל יוכל לצפות בן, יש להוסיף אותם לקבוצת תגיות שמוגדרת להיות גלויה רק לסגל."
