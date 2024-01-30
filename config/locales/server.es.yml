@@ -5,3 +5,6 @@
 # https://translate.discourse.org/
 
 es:
+  site_settings:
+    tag_by_group_enabled: "Activa el etiquetado automático de temas en función de la pertenencia a grupos del usuario."
+    tag_by_group_tags_for_groups: "Acepta una lista de pares de nombre de grupo/nombre de etiqueta. Por ejemplo, «clientes, alta prioridad». Para configurar las etiquetas de modo que solo puedan ser vistas por el personal, añádelas a un Grupo de etiquetas que esté configurado para ser visible solo por el personal."

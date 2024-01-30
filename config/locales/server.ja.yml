@@ -5,3 +5,6 @@
 # https://translate.discourse.org/
 
 ja:
+  site_settings:
+    tag_by_group_enabled: "ユーザーのグループメンバーシップに基づいてトピックの自動タグ付けを有効にします。"
+    tag_by_group_tags_for_groups: "グループ名とタグ名のペアのリストを受け入れます。たとえば、'customers, high-priority' です。スタッフのみが表示できるようにタグを構成するには、スタッフのみが表示できるように設定されているタググループにタグを追加します。"

@@ -5,3 +5,6 @@
 # https://translate.discourse.org/
 
 tr_TR:
+  site_settings:
+    tag_by_group_enabled: "Kullanıcının grup üyeliklerine göre konuları otomatik etiketlemeyi etkinleştirin."
+    tag_by_group_tags_for_groups: "Grup-adı/etiket-adı çiftlerinin bir listesini kabul eder. Örneğin 'müşteriler, yüksek öncelikli'. Etiketleri yalnızca personel tarafından görülebilecek şekilde yapılandırmak için bunları yalnızca personel tarafından görülebilecek şekilde ayarlanmış bir Etiket Grubuna ekleyin."
