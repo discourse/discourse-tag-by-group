@@ -5,3 +5,6 @@
 # https://translate.discourse.org/
 
 de:
+  site_settings:
+    tag_by_group_enabled: "Aktiviere das automatische Markieren von Themen basierend auf den Gruppenmitgliedschaften des Benutzers."
+    tag_by_group_tags_for_groups: "Akzeptiert eine Liste von Gruppennamen/Schlagwortnamen-Paaren. Zum Beispiel „Kunden, hohe Priorität“. Um Schlagwörter so zu konfigurieren, dass sie nur von Team-Mitgliedern gesehen werden können, fügst du sie zu einer Schlagwortgruppe hinzu, die so eingestellt ist, dass sie nur für Team-Mitglieder sichtbar ist."

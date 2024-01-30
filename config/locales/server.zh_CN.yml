@@ -5,3 +5,6 @@
 # https://translate.discourse.org/
 
 zh_CN:
+  site_settings:
+    tag_by_group_enabled: "启用根据用户的群组成员身份自动标记话题。"
+    tag_by_group_tags_for_groups: "接受群组名称/标签名称对的列表。例如“客户，高优先级”。要将标签配置为仅管理人员可见，请将他们添加到设置为仅管理人员可见的标签群组。"

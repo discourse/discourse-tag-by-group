@@ -5,3 +5,6 @@
 # https://translate.discourse.org/
 
 nl:
+  site_settings:
+    tag_by_group_enabled: "Schakel automatisch taggen van topics in op basis van de groepslidmaatschappen van de gebruiker."
+    tag_by_group_tags_for_groups: "Accepteert een lijst met groepsnaam/tagnaam-paren. Bijvoorbeeld 'klanten, hoge prioriteit'. Om tags zo te configureren dat ze alleen zichtbaar zijn voor medewerkers, voeg je ze toe aan een taggroep die is ingesteld om alleen zichtbaar te zijn voor medewerkers."

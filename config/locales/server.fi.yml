@@ -5,3 +5,6 @@
 # https://translate.discourse.org/
 
 fi:
+  site_settings:
+    tag_by_group_enabled: "Ota käyttöön ketjujen automaattinen merkintä tunnistella käyttäjän ryhmäjäsenyyksien perusteella."
+    tag_by_group_tags_for_groups: "Hyväksyy ryhmännimi/tunnisteennimi-parien luettelon. Esimerkiksi \"asiakkaat, korkea-prioriteetti\". Jos haluat määrittää tunnisteet niin, että vain henkilökunta näkee ne, lisää ne tunnisteryhmään, joka on asetettu näkymään vain henkilökunnalle."
