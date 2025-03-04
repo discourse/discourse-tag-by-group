@@ -1,9 +1,3 @@
-# WARNING: Never edit this file.
-# It will be overwritten when translations are pulled from Crowdin.
-#
-# To work with us on translations, join this project:
-# https://translate.discourse.org/
-
 nl:
   site_settings:
     tag_by_group_enabled: "Schakel automatisch taggen van topics in op basis van de groepslidmaatschappen van de gebruiker."
