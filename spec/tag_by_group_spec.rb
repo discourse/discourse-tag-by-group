@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require "rails_helper"
-
 describe "tag_by_group" do
   before do
     SiteSetting.tagging_enabled = "true"
